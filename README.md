@@ -1,5 +1,10 @@
-# Getting Started with dbt on Snowflake
+# dbt + Snowflake Portfolio Project
 
-## Overview
+## 👋 Project Ownership
+Forked and maintained by **P Reddy**  
+GitHub: https://github.com/prrdata
 
-This repository contains an example dbt project to get you started with dbt on Snowflake. 
+### Purpose
+- Hands-on dbt with Snowflake
+- Analytics engineering best practices
+- Portfolio project for Data Engineer / Analytics Engineer roles
